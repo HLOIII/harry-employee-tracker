@@ -30,7 +30,9 @@ Before running "node index.js" command in your terminal, please make sure to upd
 # Tests
 N/A
 
-# Demo
+# Mockup Image
+![screenshot](/assets/images/EmployeeTrackerMockUp.png)
 
 # Questions?
 ## Please contact me:
+https://github.com/HLOIII
