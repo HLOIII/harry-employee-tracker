@@ -31,7 +31,7 @@ Before running "node index.js" command in your terminal, please make sure to upd
 N/A
 
 # Mockup Image
-![screenshot](/assets/images/EmployeeTrackerMockUp.png)
+![screenshot](assets/images/EmployeeTrackerMockUp.PNG)
 
 # Questions?
 ## Please contact me:
