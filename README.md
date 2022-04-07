@@ -11,7 +11,7 @@ The main purpose of this project is to provide a tool to track employees informa
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Tests](#tests)
-* [Demo](#demo)
+
 
 
 ## Usage
