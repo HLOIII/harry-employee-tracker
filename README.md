@@ -19,9 +19,9 @@ Please first install node.js and then run the following commands into your termi
 ```
 git clone <from-repository-on-github>
 npm install
-node index.js
+npm start
 ```
-Before running "node index.js" command in your terminal, please make sure to update "connection.js" file with your mysql "username" and "password".
+Before running "npm start" command in your terminal, please make sure to update "connection.js" file with your mysql "username" and "password".
 
 # Contributing
 ​Contributors: N/A
