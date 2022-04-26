@@ -8,8 +8,8 @@ The main purpose of this project is to provide a tool to track employees informa
 * [Description](#description)
 * [Table of Contents](#table-of-contents)
 * [Usage](#usage)
-* [Contributing](#contributing)
 * [Tests](#tests)
+* [Demo](#demo)
 
 
 
@@ -19,18 +19,16 @@ Please first install node.js and then run the following commands into your termi
 ```
 git clone <from-repository-on-github>
 npm install
-npm start
+node server.js
 ```
-Before running "npm start" command in your terminal, please make sure to update "connection.js" file with your mysql "username" and "password".
+Before running "node server.js" command in your terminal, please make sure to update "connection.js" file with your mysql "username" and "password".
 
-# Contributing
-​Contributors: N/A
+## Tests
+Run the following command "node server.js" multiple times in your terminal. Each time select a different option and follow the prompts
 
-# Tests
-N/A
-
-# Mockup Image
-![screenshot](assets/images/EmployeeTrackerMockUp.PNG)
+## Demo
+Please click on the following link to see the Demo video for this project:
+[Link to Demo](https://watch.screencastify.com/v/lujqqi8bBMmSC0mWHk8m)
 
 # Questions?
 ## Please contact me:
