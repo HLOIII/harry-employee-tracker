@@ -1,6 +1,4 @@
 # harry-employee-tracker
-# harry-employee-tracker
-
 
 ## Description
 
